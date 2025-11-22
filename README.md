@@ -1,1 +1,1 @@
-# happy-ming-star.io
+# happy-ming-star.github.io
